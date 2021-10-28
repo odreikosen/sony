@@ -10,4 +10,4 @@ Upload .wav file using upload.py
 Use alexa_alarm.py to send file to your Alexa
 
 
-Hello
+o
